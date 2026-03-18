@@ -5,4 +5,6 @@ This code base contains the following two self contained Jupyter Notebooks that 
 1. main_code_panda.ipynb: contains code for running the proposed method on PANDA dataset.
 2. main_code_otsu.ipynb: contains code for running the proposed method on CPTAC-CM dataset.
 
+The notebooks have been executed in Google Colab environment. The dependencies and other path variables have been clearly stated within the file. One may change the pathname as per the environment used to execute the code.
+
 The dataset associated with the study can be downloaded from: https://drive.google.com/drive/folders/13bDVN1qUpeaAoy3bRO52PEgKJC2PViuH?usp=sharing. Download it to a directory and appropriately set the path in the file. The code has been tested on the Google Colab environment without any GPU support.
