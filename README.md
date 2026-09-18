@@ -1,5 +1,5 @@
 # ScaleErrorMinWSI
-Code repository associated with the implementation of the method discussed in the paper titled "From Thumbnail to Gigapixel: Modeling and Correcting Boundary Scaling Errors in Whole Slide Image Segmentation". This paper discusses an adaptive method for segmenting the tissue regions from gigapixel Whole Slide Images by utilizing its low-resolution counter path.
+Code repository associated with the implementation of the method discussed in the paper titled "From Thumbnail to Gigapixel: Modeling and Correcting Boundary Scaling Errors in Whole Slide Image Segmentation". This paper discusses an adaptive method for segmenting the tissue regions from gigapixel Whole Slide Images by utilizing its low-resolution version.
 
 The organisation of the code base is as follows:
 1. lazyslide_method.ipynb: contains code for generating results using the proposed method.
