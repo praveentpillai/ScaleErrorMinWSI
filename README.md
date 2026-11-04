@@ -2,7 +2,7 @@
 Code repository associated with the implementation of the method discussed in the paper titled "From Thumbnail to Gigapixel: Modeling and Correcting Boundary Scaling Errors in Whole Slide Image Segmentation". This paper discusses an adaptive method for segmenting the tissue regions from gigapixel Whole Slide Images by utilizing its low-resolution version.
 
 The organisation of the code base is as follows:
-1. lazyslide_method.ipynb: contains code for generating results using the proposed method.
+1. proposed_method.ipynb: contains code for generating results using the proposed method.
 2. lazyslide_method.ipynb: contains code for generating results using the LazySlide tool API.
 3. tiatoolbox_method.ipynb: contains code for generating results using the TIAToolbox tool API.
 4. result_generator.ipynb: contains code for generating plots as shown in the research paper.
@@ -13,7 +13,8 @@ The organisation of the code base is as follows:
 
 The notebooks have been executed in Google Colab environment. The dependencies and other path variables have been clearly stated within the file. For execution, follow the below steps:
 1. This github repository is to be downloaded to the Google Drive.
-2. The notebooks can be opened using Google Colab interfaces and changes have to be made to the path variables as specified in each file.
-3. The dataset associated with the study can be downloaded from: (https://drive.google.com/drive/folders/1tFYSdAgTHR_cxUx5oU2VH79dab3rpsBn?usp=drive_link). Download it to a directory.
-4. Appropriately set the path in the file.
-5. Once done, the notebooks can be executed independently to generate the results.
+2. The dataset associated with the study can be downloaded from: (https://drive.google.com/drive/folders/1tFYSdAgTHR_cxUx5oU2VH79dab3rpsBn?usp=drive_link). Download it to a directory.
+3. The notebooks can be opened using Google Colab. 
+4. Changes have to be made to the path variables as specified in each file especially for acessing the dataset.
+5. Appropriately set the path in the file.
+6. Once done, the notebooks can be executed independently to generate the results.
