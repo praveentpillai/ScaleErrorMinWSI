@@ -10,6 +10,7 @@ The organisation of the code base is as follows:
 6. results/ : folder containing the plots generated when the codes within the result_generator.ipynb file are executed.
 7. output_images/ : folder containing the figures generated when the codes within the output_sample_generator.ipynb file are executed.
 8. scaling_error_estimation/ : folder containing code files for studying the boundary scaling error estimation process.
+9. log_files/ : folder containing the log files generated when the codes corresponding to the proposed, LazySlide and TIAToolbox method files are executed.
 
 The notebooks have been executed in Google Colab environment. The dependencies and other path variables have been clearly stated within the file. For execution, follow the below steps:
 1. This github repository is to be downloaded to the Google Drive.
