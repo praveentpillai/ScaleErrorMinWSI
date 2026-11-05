@@ -13,7 +13,7 @@ The organisation of the code base is as follows:
 
 The notebooks have been executed in Google Colab environment. The dependencies and other path variables have been clearly stated within the file. For execution, follow the below steps:
 1. This github repository is to be downloaded to the Google Drive.
-2. The dataset associated with the study can be downloaded from: (https://drive.google.com/drive/folders/1tFYSdAgTHR_cxUx5oU2VH79dab3rpsBn?usp=drive_link). Download it to a directory.
+2. The dataset associated with the study can be downloaded from: (https://drive.google.com/drive/folders/1tFYSdAgTHR_cxUx5oU2VH79dab3rpsBn?usp=drive_link). Download it to a directory. Please note that the dataset size can exceed 2GB.
 3. The notebooks can be opened using Google Colab. 
 4. Changes have to be made to the path variables as specified in each file especially for accessing the dataset and storing the generated mask.
 5. Appropriately create the required folders in the parent folder relatively to each dataset to store the generated mask.
